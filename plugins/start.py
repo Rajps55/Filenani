@@ -166,7 +166,7 @@ async def start_command(client: Client, message: Message):
             [
 
     [
-                    InlineKeyboardButton("⚡️ ᴀʙᴏᴜᴛ", callback_data = "about"),
+                   # InlineKeyboardButton("⚡️ ᴀʙᴏᴜᴛ", callback_data = "about"),
                     InlineKeyboardButton('🍁 sᴇʀɪᴇsғʟɪx', url='https://t.me/+HlqRnb5coY1iZTQ1')
 
     ]
